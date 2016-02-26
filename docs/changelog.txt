@@ -1,0 +1,5 @@
+Changelog for getInputOptions
+
+getInputOptions 0.1.0-rc1
+---------------------------------
+Initial Version

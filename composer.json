@@ -1,0 +1,29 @@
+{
+    "name": "DashMedia/getInputOptions",
+    "description": "",
+    "type": "modx-package",
+    "keywords": ["modx","repoman"],
+    "homepage": "https://github.com/dashmedia/getInputOptions",
+    "license": "GPL-2.0+",
+    "authors": [
+        {
+            "name": "Jason",
+            "email": "jason@dashmedia.com.au",
+            "homepage" : "https://dash.marketing/"
+        }        
+    ],
+    "support": {
+        "issues": "https://github.com/dashmedia/getInputOptions/issues",
+        "source": "https://github.com/dashmedia/getInputOptions.git"
+    },    
+    "require": {
+        "php": ">=5.3"
+    },
+    "extra": {
+        "package_name": "getInputOptions",
+        "namespace": "getinputoptions",
+        "version": "0.1.0",
+        "release": "rc1",
+        "category":"Utilities"
+    }
+}
